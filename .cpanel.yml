@@ -1,5 +1,7 @@
----
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/byhkhgmy/public_html/portfolio
-    - /bin/cp -R * $DEPLOYPATH
+    - export DEPLOYPATH=/home2/xxxx/public_html/portfolio/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
