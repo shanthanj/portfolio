@@ -37,7 +37,22 @@ const CONTENT = {
     {
       label: "Emcee",
       events: [
-                {
+                        {
+          title: "Kavin Kalalaya Music Academy's 11th Annual Show",
+          date: "September 27, 2026",
+          venue: "Whitby Courthouse Theatre",
+          description: "Kavin Kalalaya Music Academy's 11th annual show.",
+          photos: [
+            "media/kavinali_2026/photos/831027591_39110731688541355_609548071948989398_n.jpg",
+            "media/kavinali_2026/photos/FB_IMG_1790681105386.jpg",
+            "media/kavinali_2026/photos/FB_IMG_1790681148358.jpg",
+            "media/kavinali_2026/photos/FB_IMG_1790681180612.jpg",
+            "media/kavinali_2026/photos/FB_IMG_1790681199707.jpg",
+            "media/kavinali_2026/photos/FB_IMG_1790681270242.jpg"
+          ],
+          videos: [],
+          audio: []
+        },{
           title: "Harrish Suthaharan Vocal Arangetram",
           date: "September 19, 2026",
           venue: "Thamil Isai Kala Mandram",
