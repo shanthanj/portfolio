@@ -37,7 +37,30 @@ const CONTENT = {
     {
       label: "Emcee",
       events: [
-                        {
+                                {
+          title: "Raghalaya Fine Arts 25th Silver Jubilee",
+          date: "October 10, 2026",
+          venue: "Chinese Cultural Centre",
+          description: "ராகாலயா நுண்கலைக்கூடம் பெருமையுடன் வழங்கிய ”கானமாருதம்” 25வது வெள்ளி விழாக் கொண்டாட்டம் ஒக்டோபர் 10, 2026 அன்று Chinese Cultural Centreஇல் மிகச்சிறப்பாக நடந்தேறியது. சங்கீதக் கலாவித்தகர், இன்னிசைவாணி ஸ்ரீமதி. லசந்தி ராஜ்குமார் அவர்களின் வழிகாட்டலின் கீழ், ராகாலயாவின் நூற்றுக்கணக்கான மாணவர்கள் வாய்ப்பாட்டு, வீணை, வயலின் என பல்வாத்திய விருந்தாக மிகச்சிறப்பாகத் தமது இசைத் திறமைகளை வெளிப்படுத்தினார்கள். நவராத்திரியின் ஆரம்ப நாளில் 25வது வருடப் பூர்த்தியை வெற்றிகரமாக அரங்கேற்றிய ஸ்ரீமதி. லசந்தி ராஜ்குமாருக்கு மீண்டும் வாழ்த்துக்கள்! என்னை நிகழ்ச்சித் தொகுப்பிற்காக அழைத்தமைக்கும் நன்றி!",
+          photos: [
+            "media/raghalaya_silver_jubilee/photos/_95A4628.jpg",
+            "media/raghalaya_silver_jubilee/photos/_95A4630.jpg",
+            "media/raghalaya_silver_jubilee/photos/_95A4642.jpg",
+            "media/raghalaya_silver_jubilee/photos/971A1716.jpg",
+            "media/raghalaya_silver_jubilee/photos/971A1892.jpg",
+            "media/raghalaya_silver_jubilee/photos/A231-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/A232-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/A547-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/A548-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/A549-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/A568-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/A569-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/B10-X3.jpg",
+            "media/raghalaya_silver_jubilee/photos/B11-X3.jpg"
+          ],
+          videos: [],
+          audio: []
+        },{
           title: "Kavin Kalalaya Music Academy's 11th Annual Show",
           date: "September 27, 2026",
           venue: "Whitby Courthouse Theatre",
