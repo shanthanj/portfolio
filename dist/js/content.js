@@ -37,7 +37,38 @@ const CONTENT = {
     {
       label: "Emcee",
       events: [
-                                {
+                                        {
+          title: "World Tamil Research Conference 2026",
+          date: "October 18, 2026",
+          venue: "Metropolitan Center, Scarborough",
+          description: "அனைத்து உலக தமிழர் பேரவையின் உலகத் தமிழ் ஆய்வு மாநாடு 2026 ஒக்டோபர் 15 முதல் 18ம் திகதி வரை வெகு சிறப்பாக நடைபெற்றது. எதிர்பார்க்கப்பட்டதை விட மிக அதிகளவிலான பங்கேற்பாளர்களுடன் வெற்றிகரமாக மாநாடு நடந்தேறியமை, தமிழ்மொழியைச் செய்யறிவு உலகில் அடுத்தகட்டத்திற்குக் கொண்டுசெல்வதற்கான மேலதிக உறுதிப்பாட்டை வழங்கியிருந்தது. ”செய்யறிவுலகில் செம்மொழித் தமிழும், தமிழரும்” என்ற கருப்பொருளில் இந்த ஆய்வு மாநாடு நடத்தப்பட்டது. மாநாட்டில் பல நாடுகளிலிருந்தும் நூற்றுக்கணக்கான தமிழ் ஆய்வாளர்கள், அறிஞர்கள், கல்வியாளர்கள், கலைஞர்கள் மற்றும் ஆர்வலர்கள் கலந்துகொண்டு சிறப்பித்தனர். பல ஆய்வுக்கட்டுரைகள் சமர்ப்பிக்கப்பட்டு மாநாட்டில் விளக்கவுரைகளும் வழங்கப்பட்டன. மாநாட்டினைத் தொடர்ந்து, ஒக்டோபர் 17ம் திகதி சனிக்கிழமை கலை இரவு இடம்பெற்றது. பல கலைநிகழ்ச்சிகள் ரசிகர்களை மகிழ்வித்தன. அதில் நான் தொகுப்பாளராகக் கலந்துகொண்டமை மகிழ்ச்சி! இறுதி நாளான ஒக்டோபர் 18ம் திகதி விருது விழாவும், இராப்போசன விருந்தும் இடம்பெற்றன. மாநாட்டில் பங்கேற்ற பல அறிஞர்களுக்கும், மாநாட்டு ஏற்பாட்டுக் குழுவினருக்கும் பல விருதுகள் வழங்கப்பட்டன. இந்த மாநாட்டிற்குக் கிடைத்த பெருவெற்றி, தமிழுக்கும், தமிழருக்கும் கிடைத்த வெற்றி. இவ்வாறான மாநாடுகள் எதிர்காலத்திலும் நிச்சயமாக நடைபெறும் என்ற உறுதியுடனும், அவாவுடனும் மீண்டும் மாநாட்டை வெற்றிகரமாக நடத்திய அனைத்துலகத் தமிழர் பேரவைக்கு வாழ்த்துக்கள்!",
+          photos: [
+            "media/world_tamil_research_conference_2026/photos/IYA01625-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01626-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01641-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01642-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01827-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01830-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01834-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA01981-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA02346-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA02353-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA02638-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA02639-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA02642-X2.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA02684-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA03082-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA03084-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA03090-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA03103-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA03105-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA03106-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/IYA04399-X3.jpg",
+            "media/world_tamil_research_conference_2026/photos/surean1-400-X3.jpg"
+          ],
+          videos: [],
+          audio: []
+        },{
           title: "Raghalaya Fine Arts 25th Silver Jubilee",
           date: "October 10, 2026",
           venue: "Chinese Cultural Centre",
