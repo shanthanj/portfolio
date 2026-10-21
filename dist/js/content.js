@@ -327,7 +327,28 @@ const CONTENT = {
     {
       label: "Layatharangam (Mridangam)",
       events: [
-        {
+                {
+          title: "Vijayadasami 2026",
+          date: "October 20, 2026",
+          venue: "",
+          description: "",
+          photos: [
+            "media/vijayadasami_2026/photos/9ac14561-6efe-42da-9dba-f503df5ca071.jpeg",
+            "media/vijayadasami_2026/photos/a3fc135e-f29f-4122-a7e7-002ef64b6819.jpeg",
+            "media/vijayadasami_2026/photos/b0aba140-8caf-4438-805c-16c82079d542.jpeg",
+            "media/vijayadasami_2026/photos/b22eae75-ef97-48bc-832d-506ce4e17825.jpeg",
+            "media/vijayadasami_2026/photos/c994b0ea-286a-40da-ae3d-83cb33acbcc5.jpeg",
+            "media/vijayadasami_2026/photos/PXL_20261021_004333287.jpg",
+            "media/vijayadasami_2026/photos/PXL_20261021_004339673.jpg",
+            "media/vijayadasami_2026/photos/WhatsApp Image 2026-10-20 at 11.42.59 PM.jpeg"
+          ],
+          videos: [
+            { type: "file", src: "media/vijayadasami_2026/videos/PXL_20261021_004243573.mp4" },
+            { type: "file", src: "media/vijayadasami_2026/videos/WhatsApp Video 2026-10-20 at 11.43.00 PM (1).mp4" },
+            { type: "file", src: "media/vijayadasami_2026/videos/WhatsApp Video 2026-10-20 at 11.43.00 PM.mp4" }
+          ],
+          audio: []
+        },{
           title: "108 Mridanga Laya Vinyasam",
           date: "May 24, 2026",
           venue: "Sri Varasiththi Vinayagar Temple",
